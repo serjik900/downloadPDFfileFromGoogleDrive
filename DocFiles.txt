@@ -1,0 +1,11 @@
+1
+Original link:
+https://drive.google.com/file/d/1BQ8woktulq5Pg6QHlMEOgKqN1 boNYOD/view
+Change:
+drive ->docs
+file -> document
+view -> mobilebasic
+https://does.google.com/doeument/d/lBQ8woktulq5Pg6QHlMEOgKqN1 boNYOD/mobilebasie
+3/ Go to the edited link
+4/ Turn off java script. Reloadl
+5/ Now you can copy it freely
